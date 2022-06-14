@@ -1,3 +1,20 @@
 background-size: tamanho fixo ou em pixel e auto
 contain - vai parece 100% da imagem mas vai deixar espaços em branco
 cover - vai cortar a imgaaem mas vai aparecer na pagina inteira 
+fundo fixo de tela com aimagem
+background-attachment:
+scroll -  fundo rola junto com o contéudo
+fixed - fundo fixo apanes o conteudo se move
+
+Shorthand - background:
+ordem: clor > image > positon > repeat > size > attachment 
+
+
+
+
+
+
+
+
+
+
