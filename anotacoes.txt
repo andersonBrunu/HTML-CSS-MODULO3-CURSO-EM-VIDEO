@@ -7,10 +7,14 @@ scroll -  fundo rola junto com o contéudo
 fixed - fundo fixo apanes o conteudo se move
 
 Shorthand - background:
-ordem: clor > image > positon > repeat > size > attachment 
+ordem: color > image > positon > repeat > size > attachment. 
 
+Container padrão é position relative
+conteudo do container é absoluto
+quando tem o position absolute pode usar os atributos left top
 
-
+left 50% top% centraliza uma caixa verticalmente dentro do seu container
+usando o atributo transform: translate(-50% -50%); centraliza o meio da caixa no meio do seu container
 
 
 
