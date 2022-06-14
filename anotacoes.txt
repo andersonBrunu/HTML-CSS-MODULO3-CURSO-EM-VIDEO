@@ -1,0 +1,3 @@
+background-size: tamanho fixo ou em pixel e auto
+contain - vai parece 100% da imagem mas vai deixar espaços em branco
+cover - vai cortar a imgaaem mas vai aparecer na pagina inteira 
