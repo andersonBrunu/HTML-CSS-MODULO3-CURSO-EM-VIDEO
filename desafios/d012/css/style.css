@@ -13,6 +13,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-size: 1em;
 
 }
 
@@ -55,32 +56,34 @@ footer a:hover {
 
 section {
     padding-top: 10vh;
-    padding: 10vh;
+    padding-bottom: 10vh;
     padding-left: 30px;
     font-family: var(--font-Sriracha);
-    line-height: 3em;
+    font-size: 3vh;
+    line-height: 2em;
 
 }
 section p{
-    font-size: 3.5vw;
-    margin-bottom: 2em;
+    margin-bottom: 2em;    
 }
 
 section.normal {
     background-color: white;
+    color: black;
 }
 
 section.imagem {
     background-color: rgba(0, 0, 0, 0.397);
-    box-shadow: inset 3px 6px 6px rgba(0, 0, 0, 0.473);
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.473);
     color: white;
     text-shadow: 1px 1px 0px black;
 }
 
 section.imagem>p {
+    display: inline-block;
     background-color: rgba(66, 66, 66, 0.384);
-    width: 300px;
-    padding: 10px;
+    width: 400px;
+    padding: 5px;
 }
 
 
