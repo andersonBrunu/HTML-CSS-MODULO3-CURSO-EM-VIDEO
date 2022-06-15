@@ -44,8 +44,28 @@ exemplo:
 Para alinha um td verticamente é com a propriedade vertical align: center, top, midle. isso no css logico.
 
 
+Trabalhando com tabelas grandes
+exemplo:
+<table>
+	<Caption> legenda da tabela
+	<thead>
+		pode ter as 3 tags <tr> <td> <th>, th para titulos
+
+		<th scopy: "coll"> scopy indica que o th esta relacionando ao intens abaixo dele
+		<th scopy: "row"> scopy indica que o th esta realiconado aos itens na frente dele
+	</thead>
+
+	<tbody>
+		pode ter as 3 tags <tr> <td> <th> th para titulos
+	</tbody>
+
+	<tfoot>
+		pode ter as 3 tags <tr> <td> <th> th para titulos
+	</tfoot>
+</table>
 
 
+efeito zebrado na tabela css: tr:nth-child(2n, 2n-1, odd, even)
 
 
 
