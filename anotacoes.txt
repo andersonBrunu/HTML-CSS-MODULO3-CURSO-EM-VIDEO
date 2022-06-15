@@ -16,6 +16,35 @@ quando tem o position absolute pode usar os atributos left top
 left 50% top% centraliza uma caixa verticalmente dentro do seu container
 usando o atributo transform: translate(-50% -50%); centraliza o meio da caixa no meio do seu container
 
+Tabelas 
+<table> para criar tabela
+<tr> criar uma linha para a tabela
+<td> para criar um conteudo de para a linha
+exemplo:
+	<table>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+Para alinha um td verticamente é com a propriedade vertical align: center, top, midle. isso no css logico.
+
+
+
 
 
 
