@@ -15,20 +15,32 @@
 
      table{
         border-collapse: collapse;
-        width: 150px;
+        width: 200px;
         padding: 5px;
         text-align: center;
      }
      td{
         border: 1px solid black;
      }
+
+     caption{
+        background-color: lightgrey;
+        font-weight: bolder;
+        padding: 4px;
+     }
 </style>
 
 <body>
 
-    <h1>Mesclagem de cálulas</h1>
+    
 
     <table>
+        <Caption >Mesclagem de células</Caption>
+        <thead>
+            <tr>
+                <td colspan="3">Tabela muito doida</td>
+            </tr>
+        </thead>
         <tr>
             <td colspan="2">A</td>
             <td>B</td>
