@@ -51,7 +51,7 @@ exemplo:
 	<thead>
 		pode ter as 3 tags <tr> <td> <th>, th para titulos
 
-		<th scopy: "coll"> scopy indica que o th esta relacionando ao intens abaixo dele
+		<th scopy: "coll"> scopy indica que o th esta relacionando ao itens abaixo dele
 		<th scopy: "row"> scopy indica que o th esta realiconado aos itens na frente dele
 	</thead>
 
