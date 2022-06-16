@@ -75,5 +75,3 @@ a propriedade "position: sticky (grudavel)", e depois a propriedade "top: 0px ou
 
 Mesclagem de células: 
 Utilizando os atributos rowspan e collspan para definir quantas linhas e quantas colunas repectivamente cada dado da tabela vai utilizar
-
-
