@@ -67,6 +67,11 @@ exemplo:
 
 efeito zebrado na tabela css: tr:nth-child(2n, 2n-1, odd, even)
 
+Cabeçalho fixo de tableas grandes
+definir a tabela com position relative
+e no th que é são os Cabeçalhos da tabela adicionar
+a propriedade "position: sticky (grudavel)", e depois a propriedade "top: 0px ou -1px", a junção dessas propriedades vai fazer com que os cabeçelhos da tabela grudem na parte de cima da tabela e não suma até a tabela sair completamente da visão do usuario 
+
 
 
 
