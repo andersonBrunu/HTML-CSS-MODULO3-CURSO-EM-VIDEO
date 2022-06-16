@@ -73,6 +73,7 @@ e no th que é são os Cabeçalhos da tabela adicionar
 a propriedade "position: sticky (grudavel)", e depois a propriedade "top: 0px ou -1px", a junção dessas propriedades vai fazer com que os cabeçelhos da tabela grudem na parte de cima da tabela e não suma até a tabela sair completamente da visão do usuario 
 
 
-
+Mesclagem de células: 
+Utilizando os atributos rowspan e collspan para definir quantas linhas e quantas colunas repectivamente cada dado da tabela vai utilizar
 
 
