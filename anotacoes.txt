@@ -75,3 +75,8 @@ a propriedade "position: sticky (grudavel)", e depois a propriedade "top: 0px ou
 
 Mesclagem de células: 
 Utilizando os atributos rowspan e collspan para definir quantas linhas e quantas colunas repectivamente cada dado da tabela vai utilizar
+
+<collgroup>
+	<col>   Para fazer alterações em uma coluna interira, importando criar a tag <col> na mesma quantidade de colunas que a tabela tiver.
+	vale frizar que um <col> pode ter configurações pra mais de uma coluna utilizana o atributo "span" na tag <col>.
+</collgroup>
