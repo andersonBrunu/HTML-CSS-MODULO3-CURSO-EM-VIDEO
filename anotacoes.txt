@@ -80,3 +80,7 @@ Utilizando os atributos rowspan e collspan para definir quantas linhas e quantas
 	<col>   Para fazer alterações em uma coluna interira, importando criar a tag <col> na mesma quantidade de colunas que a tabela tiver.
 	vale frizar que um <col> pode ter configurações pra mais de uma coluna utilizana o atributo "span" na tag <col>.
 </collgroup>
+
+tabelas responsivas
+
+Botando a tabela dentro de uma div, usa-se a propriedade overflow-x: scroll  para criar um scroll na tabela quando ela não couber mais na tela. mas tem os valores auto, hiddem, unset, etc.
